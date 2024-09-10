@@ -8,6 +8,8 @@ The examples in this repository are designed to help you get started with Huggin
 
 ### 1. `huggingface_pipeline.ipynb` - Hugging Face Pipeline Demonstration
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/huggingface_examples/blob/main/notebooks/huggingface_pipeline.ipynb)
+
 This notebook provides an introduction to Hugging Face's pipeline functionality, focusing on different NLP tasks such as:
 
 - Sentiment Analysis
@@ -16,6 +18,8 @@ This notebook provides an introduction to Hugging Face's pipeline functionality,
 - Text Generation
 
 ### 2. `huggingface_fine_tuning.ipynb` - Fine-Tuning a Hugging Face Model for Sentiment Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/huggingface_examples/blob/main/notebooks/huggingface_fine_tuning.ipynb)
 
 Learn how to fine-tune a pre-trained Hugging Face model for sentiment analysis using the IMDb dataset. This notebook walks through:
 
@@ -28,6 +32,8 @@ This guide is perfect for anyone looking to adapt pre-trained models for specifi
 
 ### 3. `huggingface_fine_tuning_from_checkpoint.ipynb` - Fine-Tuning a Hugging Face Model from a Checkpoint
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/huggingface_examples/blob/main/notebooks/huggingface_fine_tuning_from_checkpoint.ipynb)
+
 This notebook extends the fine-tuning example, introducing methods for resuming training or evaluating models from checkpoints. It includes:
 
 - Loading a pre-trained Hugging Face model.
@@ -35,6 +41,8 @@ This notebook extends the fine-tuning example, introducing methods for resuming 
 - Using checkpoints for longer or interrupted training runs.
 
 ### 4. `huggingface_stable_diffusion.ipynb` - Image Generation using Stable Diffusion in Hugging Face Model
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/huggingface_examples/blob/main/notebooks/huggingface_stable_diffusion.ipynb)
 
 Explore the power of text-to-image generation using the Stable Diffusion models (`v1-4`, `v2-1`, `SDXL`, and `FLUX.1 Schnell`). This notebook demonstrates:
 
@@ -45,6 +53,8 @@ Explore the power of text-to-image generation using the Stable Diffusion models 
 This notebook is ideal for anyone interested in experimenting with state-of-the-art generative models for image creation.
 
 ### 5. `huggingface_speech_recognition.ipynb` - Speech Recognition using Hugging Face's OpenAI Whisper Model
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryokuramoto/huggingface_examples/blob/main/notebooks/huggingface_speech_recognition.ipynb)
 
 Discover how to use OpenAI's Whisper model for automatic speech recognition (ASR). This notebook showcases:
 
