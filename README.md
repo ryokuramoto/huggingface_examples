@@ -83,10 +83,15 @@ To use the notebooks in this repository:
    
    If you wish to clear these cached files, you can manually delete the contents of the cache folder.
 
-
 ## Recommended Environment
 
-For the best experience, it is recommended running these notebooks in [Google Colab](https://colab.research.google.com/), especially when working with large models or tasks that require heavy computation, such as fine-tuning or image generation. A GPU is highly recommended for faster processing.
+For the best experience, it’s recommended to run these notebooks in Google Colab when working with large models or tasks that require significant computation, such as fine-tuning or image generation. Utilizing a GPU is highly encouraged for faster processing.
+
+You can open the notebook directly in Google Colab by clicking the "Open in Colab" button provided in this README file.
+
+If you'd like to save your notebook or results, here’s how:
+- **To save a copy to Google Drive**: Navigate to `File > Save a copy in Drive`.
+- **To save a copy locally**: Navigate to `File > Download`.
 
 ## License
 
