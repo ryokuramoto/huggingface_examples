@@ -96,10 +96,3 @@ If you'd like to save your notebook or results, here’s how:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For inquiries or support, please contact:
-
-Ryo Kuramoto  
-[ryoh.kuramoto@rknewtech.com](mailto:ryoh.kuramoto@rknewtech.com)
